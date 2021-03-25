@@ -1,9 +1,8 @@
 # Annotation of repeats in Oxford Nanopore reads
 
-**Paper: Genome-wide characterization of satellite DNA arrays in a complex plant genome using nanopore reads (*In preparation*)**
+**Paper: Complex sequence organization of heterochromatin in holocentric plant Cuscuta europaea elucidated by the computational analysis of nanopore reads (*In preparation*)**
 
-Authors(paper): Tihana Vondrak, Laura Ávila Robledillo, Petr Novák, Andrea
-Koblížková, Pavel Neumann and Jiří Macas
+Authors(paper): Tihana Vondrak, Ludmila Oliveira, Petr Novak, Andrea Koblizkova, Pavel Neumann, Jiri Macas
 
 **Dependencies**
 - python3 (https://www.python.org) with Biopython (https://biopython.org/)
