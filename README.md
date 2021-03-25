@@ -11,4 +11,4 @@ Authors(paper): Tihana Vondrak, Ludmila Oliveira, Petr Novak, Andrea Koblizkova,
 - LASTZ program (https://github.com/lastz/lastz)
 
 Scripts in this repository are catered specifically towards the annotation of Nanopore reads from the plant <em>Cuscuta europaea</em> as well as the analysis of the annotated reads.
-In case that the same approach would be used to annotate Nanopore reads from some other species please refer to repository nanopore-read-annotation: (https://github.com/vondrakt/nanopore-read-annotation.git).
+In case that the same approach would be used to annotate Nanopore reads from some other species please refer to repository nanopore-read-annotation (https://github.com/vondrakt/nanopore-read-annotation.git).
